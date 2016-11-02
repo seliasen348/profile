@@ -1,0 +1,90 @@
+body {
+  color: #2F2B2B;
+  background-color: #BFBFBF;
+  font-family: 'Coiny', cursive;
+}
+
+h1 {
+  color: #060606;
+  font-size: 30px;
+  line-height: 20px;
+  text-align: center;
+}
+
+h2 {
+  color: #1F1F1F;
+  font-size: 25px;
+  line-height: 15px;
+  text-align: center;
+}
+
+h3 {
+  color: #1F1F1F;
+  font-size: 20px;
+  line-height: 10px;
+  text-align: center;
+}
+
+p {
+  color: #1F1F1F;
+  font-size: 15px;
+  line-height: 15px;
+  padding: 10px;
+}
+
+a {
+  color: #636363;
+  text-decoration: none;
+}
+
+.btn-red:hover {
+  color: white;
+}
+
+.container {
+  width: 590px;
+  margin: 0 auto;
+}
+
+.card {
+  background: white;                          /* White background */
+  padding: 30px;                              /* Internal space */
+  border-radius: 4px;                         /* Small radius */
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px;
+}
+
+.btn-red {
+  color: #FFFFFF;
+  background-color: #B22F27;
+  border-radius: 5px;
+  padding: 10px 20px;
+}
+
+.list-inline {
+  list-style: none;
+  padding-left: 0;
+}
+
+.list-inline li {
+  display: inline-block;
+  padding: 0px 20px;
+  font-size: 40px;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.img-circle {
+  border-radius: 50%;
+  box-shadow: 2px 2px 3px rgba(0, 0, 0)
+}
+
+.img-radius {
+  border-radius: 3px;
+}
+
+.text-left {
+  text-align: left;
+}
